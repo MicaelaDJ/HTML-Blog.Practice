@@ -1,0 +1,60 @@
+body{
+  background-color: #e9dccd;
+}
+h1{
+  text-align: center;
+}
+h2{
+  font-family: 'VT323', monospace;
+  color: #00b0f0;
+  text-align: center;
+}
+div.chips{
+  font-family: 'Special Elite', cursive;
+  color: #6c523e;
+  font-size: 25px;
+  text-align: left;
+}
+div.potato{
+  font-family: 'Permanent Marker', cursive;
+  color: #6f2d1d;
+  font-size: 30px;
+  text-align: center;
+}
+div.dip{
+  font-family: 'Exo', sans-serif;
+  color: #33795c;
+  font-size: 35px;
+  text-align: right;
+}
+div.fish{
+  font-family: 'Pacifico', cursive;
+  color: #a51a4d;
+  font-size: 30px;
+  text-align: center;
+}
+div.dale{
+  font-family: 'Indie Flower', cursive;
+  color: #7b896a;
+  font-size: 25px;
+  text-align: left;
+}
+
+div.break{
+  height: 4px;
+  width: 1000px;
+  background-color: #333333;
+  display: block;
+  margin: auto;
+}
+.about-us {
+  border: 2px solid #333333;
+  width: 35%;
+  margin-top: 20px;
+  padding-left: 50px;
+  background: linear-gradient(
+    0deg,
+    #ffccff,
+    #ccffcc
+    );
+}
