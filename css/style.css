@@ -57,4 +57,21 @@ div.break{
     #ffccff,
     #ccffcc
     );
+  position: relative;
+  animation-name: left-right;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes left-right{
+  0% {
+    left: 0px;
+  }
+  50% {
+    left: 1000px;
+  }
+  100% {
+    left: 0px;
+  }
 }
