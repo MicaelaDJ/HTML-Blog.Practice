@@ -17,7 +17,7 @@ _A simple webpage  to practice simple css styling. The page is setup like a blog
 * _Open index.html using your preferred web browser to preview webpage._
 
 ##### Open (Clone not required)
-* _Click this <a href="https://micaeladj.github.io/Html-Blog.Practice/">link</a>_
+* _Click this <a href="https://micaeladj.github.io/HTML-Blog.Practice/">link</a>_
 
 
 
