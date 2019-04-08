@@ -21,8 +21,11 @@ No known bugs
 ## Support and contact details
 
 _If you run into any issues or have questions, ideas or concerns.  Please email us at:
+  
   Micaela Jawor: micaelajawor@yahoo.com
+  
   Jimmy Zebroski: zebrozkii@gmail.com
+  
   Dave Sarbora: dsarbora@gmail.com_
 
 ## Technologies Used
