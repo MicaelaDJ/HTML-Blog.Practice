@@ -27,10 +27,11 @@ email:
 
 ## Technologies Used
 
-Atom
+* Atom
+* HTML
 
 ### License
 
-*{MIT}*
+*MIT*
 
-Copyright (c) 2019 **_{Micaela Jawor, Jimmmy Zebroski, Dave Sarbora}_**
+Copyright (c) 2019 **_Micaela Jawor, Jimmmy Zebroski, Dave Sarbora_**
