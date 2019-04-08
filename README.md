@@ -31,6 +31,6 @@ Atom
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*{MIT}*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2019 **_{Micaela Jawor, Jimmmy Zebroski, Dave Sarbora}_**
