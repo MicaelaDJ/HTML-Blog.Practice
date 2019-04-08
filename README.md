@@ -1,38 +1,41 @@
-# Blog
+# _Blog_
 
-#### A webpage practicing simple css styling, 1/9/2019
+#### _A simple webpage for a blog about different kinds of chips, 1/9/2019, Updated 4/8/2019_
 
-#### By Micaela Jawor, Jimmy Zebroski, Dave Sarbora
+#### By _**Micaela Jawor & Jimmy Zebroski & Dave Sarbora**_
 
 ## Description
 
-This is a simple webpage about a blog
+_A simple webpage  to practice simple css styling. The page is setup like a blog to practice styling in different sections_
 
 ## Setup/Installation Requirements
 
-* type in url
+##### Clone
+* _Please visit Goodbye World repository at this <a href="https://github.com/MicaelaDJ/Html-Blog.Practice">link</a>._
+* _Clone repository or download to desktop_
+* _Open files using IDE (Atom or Visual Code Studio) to view code._
+* _Open index.html using your preferred web browser to preview webpage._
+
+##### Open (Clone not required)
+* _Click this <a href="https://micaeladj.github.io/Html-Blog.Practice/">link</a>_
 
 
 
 ## Known Bugs
 
-No known bugs
+_No known bugs_
 
 ## Support and contact details
 
-_If you run into any issues or have questions, ideas or concerns.  Please email us at:_
-  
-  _Micaela Jawor: micaelajawor@yahoo.com_
-  
-  _Jimmy Zebroski: zebrozkii@gmail.com_
-  
-  _Dave Sarbora: dsarbora@gmail.com_
+_If you run into any issues or have questions, ideas or concerns, or if you want to make a contribution to the code: Contact me at_ micaelajawor@yahoo.com.
 
 ## Technologies Used
 
-* Atom
-* HTML
-* CSS
+* _HTML_
+* _CSS_
+* _Atom_
+* _Git Bash_
+* _Favicomatic.com_
 
 ### License
 

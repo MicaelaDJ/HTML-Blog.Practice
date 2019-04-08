@@ -25,7 +25,7 @@ div.dip{
   font-family: 'Exo', sans-serif;
   color: #33795c;
   font-size: 35px;
-  text-align: right;
+  text-align: left;
 }
 div.fish{
   font-family: 'Pacifico', cursive;
@@ -52,6 +52,9 @@ span.pain{
 }
 span.trouble{
   color: #6457b6;
+}
+p.small{
+  font-size: 20px;
 }
 .about-us {
   border: 2px solid #333333;
