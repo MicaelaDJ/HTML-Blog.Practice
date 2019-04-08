@@ -20,13 +20,13 @@ No known bugs
 
 ## Support and contact details
 
-_If you run into any issues or have questions, ideas or concerns.  Please email us at:
+_If you run into any issues or have questions, ideas or concerns.  Please email us at:_
   
-  Micaela Jawor: micaelajawor@yahoo.com
+  _Micaela Jawor: micaelajawor@yahoo.com_
   
-  Jimmy Zebroski: zebrozkii@gmail.com
+  _Jimmy Zebroski: zebrozkii@gmail.com_
   
-  Dave Sarbora: dsarbora@gmail.com_
+  _Dave Sarbora: dsarbora@gmail.com_
 
 ## Technologies Used
 
